@@ -1,3 +1,0 @@
-name : tharun
-email: bandaritharun4@gmail.com 
-password: Tharun@123
